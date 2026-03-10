@@ -160,7 +160,7 @@
 Competed in the university-wide hackathon demonstrating technical innovation and problem-solving capabilities among top student engineers.
 
 ![Achievement](https://img.shields.io/badge/🏆_Geekathon_2025-3rd_Prize-f0b429?style=for-the-badge)
-![University](https://mite.edu.pk/)
+![University]([https://mite.edu.pk/](https://img.shields.io/badge/MITE_University-Karachi-00d4ff?style=for-the-badge))
 
 </div>
 
