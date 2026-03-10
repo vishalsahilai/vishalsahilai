@@ -8,7 +8,7 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=vishalsahilai&style=for-the-badge&color=00d4ff&label=PROFILE+VIEWS)](https://github.com/vishalsahilai)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vishal-sahil-ai)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00d4ff?style=for-the-badge&logo=github&logoColor=black)](https://vishalsahil686.github.io/portfolio_v2.html)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00d4ff?style=for-the-badge&logo=github&logoColor=black)](https://vishalsahilai.github.io)
 [![Email](https://img.shields.io/badge/Gmail-Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishalsahil986@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923058377755)
 [![Available](https://img.shields.io/badge/Status-Available_for_Projects-brightgreen?style=for-the-badge)](mailto:vishalsahil986@gmail.com)
@@ -21,30 +21,21 @@
 
 ## 👨‍💻 About Me
 
-```python
-vishal_sahil = {
-    "name"     : "Vishal Sahil",
-    "title"    : "AI Automation Specialist",
-    "location" : "Karachi, Pakistan 🇵🇰",
-    "phone"    : "+92 305 8377755",
-    "email"    : "vishalsahil986@gmail.com",
-    "github"   : "github.com/vishalsahilai",
-    "portfolio": "vishalsahil686.github.io",
-    "available": True,  # Open for projects!
+🙋‍♂️ **Name:** Vishal Sahil
+🎯 **Role:** AI Automation Specialist
+📍 **Location:** Karachi, Pakistan 🇵🇰
+📱 **Phone:** +92 305 8377755
+✉️ **Email:** vishalsahil986@gmail.com
+🌐 **Portfolio:** [vishalsahilai.github.io](https://vishalsahilai.github.io)
+💚 **Status:** Open for Projects!
 
-    "core_skills": [
-        "AI Agents (Python + LangChain)",
-        "n8n Workflow Automation",
-        "OpenAI API & Prompt Engineering",
-        "FastAPI Microservices",
-        "RAG Systems",
-        "Make / Zapier Automation",
-    ],
-
-    "mindset": "Build first, refine through execution 🚀",
-    "goal"   : "Turn complex AI into simple business results",
-}
-```
+**Core Skills:**
+- 🤖 AI Agents (Python + LangChain)
+- ⚡ n8n Workflow Automation
+- 🧠 OpenAI API & Prompt Engineering
+- 🔧 FastAPI Microservices
+- 📚 RAG Systems
+- 🔄 Make / Zapier Automation
 
 > *"Time is the most valuable resource — I build AI systems that give it back to you."*
 
@@ -69,24 +60,24 @@ vishal_sahil = {
 <div align="center">
 
 ### 🤖 AI & Machine Learning
-![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+[![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com)
+[![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)](https://langchain.com)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co)
 
 ### ⚡ Automation Platforms
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Make](https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=make&logoColor=white)
-![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+[![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)](https://n8n.io)
+[![Make](https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=make&logoColor=white)](https://make.com)
+[![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)](https://zapier.com)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
 
 ### 💻 Development
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://docker.com)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
+[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://mysql.com)
 
 </div>
 
@@ -144,27 +135,28 @@ vishal_sahil = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=vishalsahilai&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff&border_radius=10&count_private=true&include_all_commits=true" width="49%"/>
-<img src="https://streak-stats.demolab.com?user=vishalsahilai&theme=tokyonight&hide_border=true&background=0D1117&ring=00d4ff&fire=f0b429&currStreakLabel=00d4ff&border_radius=10" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=vishalsahilai&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00d4ff&icon_color=f0b429&text_color=ffffff&border_radius=10&count_private=true&include_all_commits=true" width="49%"/>
+<img src="https://streak-stats.demolab.com?user=vishalsahilai&theme=radical&hide_border=true&background=0D1117&ring=00d4ff&fire=f0b429&currStreakLabel=00d4ff&border_radius=10" width="49%"/>
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalsahilai&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d4ff&text_color=ffffff&border_radius=10" width="40%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vishalsahilai&theme=react-dark&hide_border=true&bg_color=0D1117&color=00d4ff&line=00d4ff&point=f0b429" width="100%"/>
 
 </div>
 
 ---
 
-## 🏆 Trophies & Achievement
+## 🏆 Achievement
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=vishalsahilai&theme=dark&no-frame=true&no-bg=false&margin-w=8&row=1&column=7)
+### 🥉 3rd Prize — Geekathon 2025
+**Millennium Institute of Technology & Entrepreneurship**
 
-<br>
+Competed in the university-wide hackathon demonstrating technical innovation and problem-solving capabilities among top student engineers.
 
-> 🥉 **3rd Prize — Geekathon 2025**
-> Millennium Institute of Technology & Entrepreneurship — Technical Innovation Award
+![Achievement](https://img.shields.io/badge/🏆_Geekathon_2025-3rd_Prize-f0b429?style=for-the-badge)
+![University](https://img.shields.io/badge/MITE_University-Karachi-00d4ff?style=for-the-badge)
 
 </div>
 
@@ -172,13 +164,14 @@ vishal_sahil = {
 
 ## 🎓 Education
 
-```
-🎓  Bachelor of Computer Science          2024 – 2028
-    Millennium Institute of Technology & Entrepreneurship · Karachi
+<div align="center">
 
-🏫  High School Diploma, Computer Science  2010 – 2022
-    Eva's Academy High School · Hyderabad
-```
+| 🎓 Degree | 🏫 Institution | 📍 Location | 📅 Year |
+|:---:|:---:|:---:|:---:|
+| **Bachelor of Computer Science** | Millennium Institute of Technology & Entrepreneurship | Karachi | 2024 – 2028 |
+| **High School Diploma, CS** | Eva's Academy High School | Hyderabad | 2010 – 2022 |
+
+</div>
 
 ---
 
@@ -188,12 +181,12 @@ vishal_sahil = {
 
 | 📱 Phone | ✉️ Email | 💼 LinkedIn | 🌐 Portfolio | 📍 Location |
 |:---:|:---:|:---:|:---:|:---:|
-| +92 305 8377755 | vishalsahil986@gmail.com | [vishal-sahil-ai](https://linkedin.com/in/vishal-sahil-ai) | [vishalsahil686.github.io](https://vishalsahil686.github.io/portfolio_v2.html) | Karachi 🇵🇰 |
+| +92 305 8377755 | vishalsahil986@gmail.com | [vishal-sahil-ai](https://linkedin.com/in/vishal-sahil-ai) | [vishalsahilai.github.io](https://vishalsahilai.github.io) | Karachi 🇵🇰 |
 
 <br>
 
 [![Hire Me](https://img.shields.io/badge/💼_Hire_Me-Available_Now-00d4ff?style=for-the-badge)](mailto:vishalsahil986@gmail.com)
-[![Download CV](https://img.shields.io/badge/📄_Download_CV-Resume-f0b429?style=for-the-badge)](https://vishalsahil686.github.io/Vishal_Sahil_Resume.pdf)
+[![Download CV](https://img.shields.io/badge/📄_Download_CV-Resume-f0b429?style=for-the-badge)](https://vishalsahilai.github.io/Vishal_Sahil_Resume.pdf)
 
 <br>
 
