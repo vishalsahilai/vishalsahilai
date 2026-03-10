@@ -31,8 +31,6 @@
 
 ✉️ **Email:** vishalsahil986@gmail.com
 
-🌐 **Portfolio:** [vishalsahilai]([https://vishalsahilai.github.io](https://vishalsahilai.github.io/portfolio.html))
-
 💚 **Status:** Open for Projects!
 
 **Core Skills:**
