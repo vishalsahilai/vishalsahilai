@@ -8,7 +8,7 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=vishalsahilai&style=for-the-badge&color=00d4ff&label=PROFILE+VIEWS)](https://github.com/vishalsahilai)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vishal-sahil-ai)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00d4ff?style=for-the-badge&logo=github&logoColor=black)](https://vishalsahilai.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00d4ff?style=for-the-badge&logo=github&logoColor=black)]([https://vishalsahilai.github.io](https://vishalsahilai.github.io/portfolio.html))
 [![Email](https://img.shields.io/badge/Gmail-Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishalsahil986@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923058377755)
 [![Available](https://img.shields.io/badge/Status-Available_for_Projects-brightgreen?style=for-the-badge)](mailto:vishalsahil986@gmail.com)
@@ -31,7 +31,7 @@
 
 ✉️ **Email:** vishalsahil986@gmail.com
 
-🌐 **Portfolio:** [vishalsahilai.github.io](https://vishalsahilai.github.io)
+🌐 **Portfolio:** [vishalsahilai]([https://vishalsahilai.github.io](https://vishalsahilai.github.io/portfolio.html))
 
 💚 **Status:** Open for Projects!
 
@@ -162,7 +162,7 @@
 Competed in the university-wide hackathon demonstrating technical innovation and problem-solving capabilities among top student engineers.
 
 ![Achievement](https://img.shields.io/badge/🏆_Geekathon_2025-3rd_Prize-f0b429?style=for-the-badge)
-![University](https://img.shields.io/badge/MITE_University-Karachi-00d4ff?style=for-the-badge)
+![University](https://mite.edu.pk/)
 
 </div>
 
@@ -187,7 +187,7 @@ Competed in the university-wide hackathon demonstrating technical innovation and
 
 | 📱 Phone | ✉️ Email | 💼 LinkedIn | 🌐 Portfolio | 📍 Location |
 |:---:|:---:|:---:|:---:|:---:|
-| +92 305 8377755 | vishalsahil986@gmail.com | [vishal-sahil-ai](https://linkedin.com/in/vishal-sahil-ai) | [vishalsahilai.github.io](https://vishalsahilai.github.io) | Karachi 🇵🇰 |
+| +92 305 8377755 | vishalsahil986@gmail.com | [vishal-sahil-ai](https://linkedin.com/in/vishal-sahil-ai) | [vishalsahilai](https://vishalsahilai.github.io) | Karachi 🇵🇰 |
 
 <br>
 
