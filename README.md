@@ -1,181 +1,103 @@
 <div align="center">
+  <img src="WhatsApp_Image_2026-03-08_at_6_04_55_PM.jpeg" width="150" height="150" style="border-radius:50%" alt="Vishal Sahil"/>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Vishal+Sahil;AI+Automation+Specialist;AI+Agents+Builder;n8n+%7C+LangChain+%7C+OpenAI+API;Building+the+Future+with+AI+%F0%9F%A4%96)
+  <h1>Vishal Sahil</h1>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Vishal%20Sahil%20(AI)&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Automation%20Specialist%20%7C%20Agent%20Builder%20%7C%20Workflow%20Expert&descAlignY=55&descSize=16" width="100%"/>
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=0EA5E9&center=true&vCenter=true&width=500&lines=AI+Automation+Specialist+%F0%9F%A4%96;AI+Agents+Builder;n8n+%7C+LangChain+%7C+OpenAI+API;Turning+Ideas+into+AI+Systems+%F0%9F%9A%80)
 
-[![Visits](https://komarev.com/ghpvc/?username=Vishalsahil686&label=Profile%20Views&color=00e5ff&style=for-the-badge)](https://github.com/Vishalsahil686)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vishal-sahil-ai)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00E5FF?style=for-the-badge&logo=github&logoColor=black)](https://vishalsahil686.github.io/portfolio.html)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishalsahil986@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923058377755)
-
-</div>
-
----
-
-<img align="right" alt="AI Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
-
-## 🤖 About Me
-
-```python
-vishal_sahil = {
-    "name": "Vishal Sahil",
-    "role": "AI Automation Specialist",
-    "location": "Karachi, Pakistan 🇵🇰",
-    "email": "vishalsahil986@gmail.com",
-    "phone": "+92 305 8377755",
-    "available": True,
-    
-    "skills": [
-        "AI Agents Development",
-        "n8n Workflow Automation",
-        "LangChain + OpenAI API",
-        "Prompt Engineering",
-        "FastAPI Microservices",
-        "RAG Systems",
-    ],
-    
-    "mindset": "Build first, refine through execution 🚀"
-}
-```
-
-> 💡 *"Time is the most valuable resource — I build AI systems that give it back to you."*
-
-<br clear="right"/>
-
----
-
-## 📊 Impact & Results
-
-<div align="center">
-
-| 🔻 Manual Work Reduced | ⏰ Hours Saved/Week | ✅ Workflow Uptime | 📈 Lead Conversion |
-|:---:|:---:|:---:|:---:|
-| **60%** | **20+ hrs** | **99%+** | **+45%** |
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/vishal-sahil-ai)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-%230EA5E9.svg?style=flat&logo=github&logoColor=white)](https://vishalsahil686.github.io/portfolio.html)
+  [![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=flat&logo=gmail&logoColor=white)](mailto:vishalsahil986@gmail.com)
+  [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2325D366.svg?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/923058377755)
+  [![Views](https://komarev.com/ghpvc/?username=Vishalsahil686&style=flat&color=0EA5E9&label=Profile+Views)](https://github.com/Vishalsahil686)
 
 </div>
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### 🤖 AI & Machine Learning
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-
-### ⚡ Automation
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Make](https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=make&logoColor=white)
-![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-### 💻 Development
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
-
----
-
-## 💼 Experience
-
-<details>
-<summary><b>🤖 AI Automation Specialist — Freelance (Oct 2025 – Present)</b></summary>
-<br>
-
-- ⚡ Architected **n8n workflows** integrating **15+ APIs** → reduced manual overhead by **60%**
-- 🤖 Built **AI chatbots** with OpenAI API + memory → ticket backlog down **40%**
-- 🐍 Deployed **Python AI agents** → clients save **20+ hrs/week**
-- 🔧 Designed **FastAPI microservices** for real-time CRM & analytics sync
-- ✅ Achieved **99%+ uptime** across all production deployments
-
-</details>
-
-<details>
-<summary><b>✍️ Prompt Engineer — OpenAI API (Dec 2024 – Present)</b></summary>
-<br>
-
-- 📐 Built advanced **prompt frameworks** → error rates down **35%**
-- 💬 Designed **multi-turn conversational AI** with guardrails & memory
-- 🧪 Implemented **regression testing** for model quality consistency
-- 📈 A/B tested prompts → **25% improvement** in response relevance
-
-</details>
-
----
-
-## 🚀 Key Projects
-
-<div align="center">
-
-| Project | Description | Result |
-|---------|-------------|--------|
-| ⚡ **Multi-API Onboarding** | Slack + Google Workspace + CRM automation | 4hrs → **15 min** |
-| 🤖 **AI Content Pipeline** | GPT-4 + Vision API + Auto-scheduler | **300%** reach boost |
-| 🎯 **Lead Qualification Bot** | NLU + CRM + Auto follow-up | **45%** more conversions |
-| 🐍 **Python AI Framework** | Modular LangChain + OpenAI agents | **10+ clients** |
-
-</div>
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Vishalsahil686&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=00E5FF&text_color=ffffff" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vishalsahil686&theme=tokyonight&hide_border=true&background=0D1117&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF" width="48%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishalsahil686&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=ffffff" width="40%"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Vishalsahil686&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)
-
-</div>
-
----
-
-## 🎓 Education & Achievement
-
-```
-🎓 Bachelor of Computer Science
-   Millennium Institute of Technology & Entrepreneurship, Karachi (2024–2028)
-
-🏫 High School — Computer Science  
-   Eva's Academy High School, Hyderabad (2010–2022)
-
-🏆 3rd Prize — Geekathon 2025
-   MITE University Hackathon — Technical Innovation Award
-```
-
----
-
-## 📞 Let's Connect!
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/vishal-sahil-ai)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00E5FF?style=for-the-badge&logo=github)](https://vishalsahil686.github.io/portfolio.html)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:vishalsahil986@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp)](https://wa.me/923058377755)
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+---
+
+### 👨‍💻 About Me
+
+> AI Automation Specialist based in **Karachi, Pakistan 🇵🇰** — I help founders and businesses turn complex AI into simple, measurable systems.
+
+- 🤖 Building **AI Agents** with Python, LangChain & OpenAI API
+- ⚡ Designing **n8n automation workflows** that connect 15+ APIs
+- 💡 Specializing in **Prompt Engineering** & RAG Systems
+- 🎓 CS Student @ **Millennium Institute of Technology & Entrepreneurship**
+- 🏆 **3rd Prize** — Geekathon 2025, MITE University
+- 📩 Reach me: **vishalsahil986@gmail.com** · **+92 305 8377755**
+
+---
+
+### 🚀 What I Do
+
+| Service | Tools | Impact |
+|---------|-------|--------|
+| Workflow Automation | n8n, Make, Zapier | 60% less manual work |
+| AI Agents | Python, LangChain, OpenAI | 20+ hrs saved/week |
+| Chatbot Development | OpenAI API, FastAPI | 40% fewer support tickets |
+| Prompt Engineering | GPT-4, LLMs | 25% better accuracy |
+| Lead Qualification | NLU, CRM Integration | 45% more conversions |
+
+---
+
+### 🛠️ Tech Stack
+
+**AI & Automation**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![Make](https://img.shields.io/badge/Make-6D00CC?style=flat-square&logo=make&logoColor=white)
+![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=flat-square&logo=zapier&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+
+**Development**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+---
+
+### 📌 Featured Projects
+
+**⚡ Multi-API Onboarding Automation**
+> Integrated Slack + Google Workspace + CRM → client setup time: **4 hrs → 15 min**
+
+**🤖 AI-Powered Content Pipeline**
+> GPT-4 + Vision API + Auto-scheduler → **300% reach increase**, brand consistent
+
+**🎯 Intelligent Lead Qualification Bot**
+> NLU + CRM + automated follow-up → **45% higher conversion rate**
+
+**🐍 Custom Python AI Agent Framework**
+> Modular LangChain + OpenAI system → deployed across **10+ clients**
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Vishalsahil686&show_icons=true&theme=default&hide_border=true&title_color=0EA5E9&icon_color=0EA5E9" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vishalsahil686&theme=default&hide_border=true&ring=0EA5E9&fire=0EA5E9&currStreakLabel=0EA5E9" width="48%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+**💬 Have a project? Let's talk!**
+
+[![Hire Me](https://img.shields.io/badge/Hire%20Me-Available%20Now-0EA5E9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishalsahil986@gmail.com)
+
+*Karachi, Pakistan 🇵🇰 · © 2025 Vishal Sahil*
 
 </div>
