@@ -21,7 +21,7 @@
 
 ## 👨‍💻 About Me
 
-🙋‍♂️ **Name:** Vishal Sahil
+🙋‍♂️ **Name:** Vishal Sahil /n
 🎯 **Role:** AI Automation Specialist
 📍 **Location:** Karachi, Pakistan 🇵🇰
 📱 **Phone:** +92 305 8377755
