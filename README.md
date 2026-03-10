@@ -6,7 +6,7 @@
 
 <br>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Vishalsahil686&style=for-the-badge&color=00d4ff&label=PROFILE+VIEWS)](https://github.com/Vishalsahil686)
+[![Profile Views](https://komarev.com/ghpvc/?username=vishalsahilai&style=for-the-badge&color=00d4ff&label=PROFILE+VIEWS)](https://github.com/vishalsahilai)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vishal-sahil-ai)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00d4ff?style=for-the-badge&logo=github&logoColor=black)](https://vishalsahil686.github.io/portfolio_v2.html)
 [![Email](https://img.shields.io/badge/Gmail-Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishalsahil986@gmail.com)
@@ -28,7 +28,7 @@ vishal_sahil = {
     "location" : "Karachi, Pakistan 🇵🇰",
     "phone"    : "+92 305 8377755",
     "email"    : "vishalsahil986@gmail.com",
-    "github"   : "github.com/Vishalsahil686",
+    "github"   : "github.com/vishalsahilai",
     "portfolio": "vishalsahil686.github.io",
     "available": True,  # Open for projects!
 
@@ -144,12 +144,12 @@ vishal_sahil = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Vishalsahil686&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff&border_radius=10" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vishalsahil686&theme=tokyonight&hide_border=true&background=0D1117&ring=00d4ff&fire=f0b429&currStreakLabel=00d4ff&border_radius=10" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=vishalsahilai&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff&border_radius=10" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vishalsahilai&theme=tokyonight&hide_border=true&background=0D1117&ring=00d4ff&fire=f0b429&currStreakLabel=00d4ff&border_radius=10" width="49%"/>
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishalsahil686&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d4ff&text_color=ffffff&border_radius=10" width="40%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalsahilai&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d4ff&text_color=ffffff&border_radius=10" width="40%"/>
 
 </div>
 
@@ -159,7 +159,7 @@ vishal_sahil = {
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Vishalsahil686&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=6)
+![Trophies](https://github-profile-trophy.vercel.app/?username=vishalsahilai&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=6)
 
 <br>
 
