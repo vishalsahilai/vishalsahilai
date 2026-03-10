@@ -144,8 +144,8 @@ vishal_sahil = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=vishalsahilai&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff&border_radius=10" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vishalsahilai&theme=tokyonight&hide_border=true&background=0D1117&ring=00d4ff&fire=f0b429&currStreakLabel=00d4ff&border_radius=10" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=vishalsahilai&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff&border_radius=10&count_private=true&include_all_commits=true" width="49%"/>
+<img src="https://streak-stats.demolab.com?user=vishalsahilai&theme=tokyonight&hide_border=true&background=0D1117&ring=00d4ff&fire=f0b429&currStreakLabel=00d4ff&border_radius=10" width="49%"/>
 
 <br><br>
 
@@ -159,7 +159,7 @@ vishal_sahil = {
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=vishalsahilai&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=6)
+![Trophies](https://github-profile-trophy.vercel.app/?username=vishalsahilai&theme=dark&no-frame=true&no-bg=false&margin-w=8&row=1&column=7)
 
 <br>
 
