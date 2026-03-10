@@ -21,15 +21,19 @@
 
 ## 👨‍💻 About Me
 
-| | |
-|---|---|
-| 🙋‍♂️ **Name** | Vishal Sahil |
-| 🎯 **Role** | AI Automation Specialist |
-| 📍 **Location** | Karachi, Pakistan 🇵🇰 |
-| 📱 **Phone** | +92 305 8377755 |
-| ✉️ **Email** | vishalsahil986@gmail.com |
-| 🌐 **Portfolio** | [vishalsahilai.github.io](https://vishalsahilai.github.io) |
-| 💚 **Status** | Open for Projects! |
+🙋‍♂️ **Name:** Vishal Sahil
+
+🎯 **Role:** AI Automation Specialist
+
+📍 **Location:** Karachi, Pakistan 🇵🇰
+
+📱 **Phone:** +92 305 8377755
+
+✉️ **Email:** vishalsahil986@gmail.com
+
+🌐 **Portfolio:** [vishalsahilai.github.io](https://vishalsahilai.github.io)
+
+💚 **Status:** Open for Projects!
 
 **Core Skills:**
 - 🤖 AI Agents (Python + LangChain)
