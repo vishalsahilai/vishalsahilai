@@ -10,7 +10,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vishal-sahil-ai)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00d4ff?style=for-the-badge&logo=github&logoColor=black)](https://vishalsahilai.github.io/portfolio.html)
 [![Email](https://img.shields.io/badge/Gmail-Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishalsahilofficial@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923058377755)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923366874263)
 [![Available](https://img.shields.io/badge/Status-Available_for_Projects-brightgreen?style=for-the-badge)](mailto:vishalsahil986@gmail.com)
 
 </div>
@@ -27,9 +27,9 @@
 
 📍 **Location:** Karachi, Pakistan 🇵🇰
 
-📱 **Phone:** +92 305 8377755
+📱 **Phone:** +92 336 6874263
 
-✉️ **Email:** vishalsahil986@gmail.com
+✉️ **Email:** vishalsahilofficial@gmail.com
 
 🌐 **Portfolio:** [vishalsahilai.github.io](https://vishalsahilai.github.io)
 
