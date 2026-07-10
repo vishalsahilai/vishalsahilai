@@ -1,35 +1,73 @@
 <div align="center">
 
-```
-                                          vishal@sahil ──────────────────────────────────────────────
-    ██╗   ██╗██╗███████╗██╗  ██╗ █████╗ ██╗           OS: ................... Pakistan 🇵🇰, Karachi
-    ██║   ██║██║██╔════╝██║  ██║██╔══██╗██║           Uptime: ............... 20 years, still debugging
-    ██║   ██║██║███████╗███████║███████║██║           Host: ................. Millennium Institute of Tech
-    ╚██╗ ██╔╝██║╚════██║██╔══██║██╔══██║██║           Kernel: ............... AI Automation Specialist
-     ╚████╔╝ ██║███████║██║  ██║██║  ██║███████╗      IDE: .................. n8n + VSCode + Python
-      ╚═══╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝
-                                                      Languages.Programming: .. Python, JavaScript, SQL
-                  S A H I L                           Languages.AI: ........... LangChain, OpenAI API
-      ┌───────────────────────────────────────┐       Languages.Automation: ... n8n, Make, Zapier, FastAPI
-      │  AI Automation Specialist             │       Languages.Frontend: ..... React, Node.js, HTML/CSS
-      │  Agent Builder  |  n8n Expert         │
-      │  Karachi, Pakistan                    │       Hobbies.Building: ........ AI Agents that save time
-      └───────────────────────────────────────┘       Hobbies.Exploring: ....... LLMs, RAG, Prompt Eng.
-
-                                                    - Contact ──────────────────────────────────────────
-                                                      Email.Personal: .......... vishalsahil986@gmail.com
-                                                      Email.Work: .............. vishalsahilofficial@gmail.com
-                                                      LinkedIn: ................ vishal-sahil-ai
-                                                      WhatsApp: ................ +92 336 6874263
-                                                      Portfolio: ............... vishalsahilai.vercel.app
-
-                                                    - GitHub Stats ──────────────────────────────────────
-                                                      APIs Integrated: .. 15+ | Uptime: .......... 99%+
-                                                      Hours Saved/Week: . 20+ | Clients Served: .. 10+
-                                                      Manual Work Cut: .. 60% | Lead Conversion: +45%
-```
+<a href="https://vishalsahilai.vercel.app">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=2" width="100%"/>
+</a>
 
 </div>
+
+<table>
+<tr>
+<td width="40%" valign="top">
+
+<div align="center">
+
+<!-- Replace the src below with your GitHub avatar URL after uploading -->
+<img src="https://github.com/vishalsahilai.png" width="280" style="border-radius: 50%; border: 3px solid #00d4ff;"/>
+
+<br/><br/>
+
+**Vishal Sahil**
+`vishalsahilai`
+
+[![Follow](https://img.shields.io/github/followers/vishalsahilai?style=social)](https://github.com/vishalsahilai)
+
+```
+  AI Automation Specialist
+  Agent Builder | n8n Expert
+  Karachi, Pakistan 🇵🇰
+```
+
+📱 `+92 336 6874263`
+✉️ `vishalsahil986@gmail.com`
+
+</div>
+
+</td>
+<td width="60%" valign="top">
+
+```
+vishal@sahil ─────────────────────────────────────
+ OS: .................. Karachi, Pakistan 🇵🇰
+ Uptime: .............. 20 yrs, still compiling
+ Host: ................ Millennium Inst. of Tech
+ Kernel: .............. AI Automation Specialist
+ IDE: ................. n8n · VSCode · Python
+
+ Languages.Programming: Python, JavaScript, SQL
+ Languages.AI: ........ LangChain, OpenAI API
+ Languages.Automation:  n8n, Make, Zapier, FastAPI
+ Languages.Frontend: .. React, Node.js, HTML/CSS
+
+ Hobbies.Building: .... AI Agents that save time
+ Hobbies.Exploring: ... LLMs, RAG, Prompt Eng.
+
+- Contact ─────────────────────────────────────────
+ Email.Personal: ....... vishalsahil986@gmail.com
+ Email.Work: ........... vishalsahilofficial@gmail.com
+ LinkedIn: ............. vishal-sahil-ai
+ WhatsApp: ............. +92 336 6874263
+ Portfolio: ............ vishalsahilai.vercel.app
+
+- Impact Stats ────────────────────────────────────
+ Manual Work Reduced: 60% | Uptime: ......... 99%+
+ Hours Saved/Week: .. 20+ | APIs Integrated: .. 15+
+ Lead Conversion:  +45%  | Clients Reused: .... 10+
+```
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -49,12 +87,12 @@
 $ cat experience.txt
 ```
 
-**`[OCT 2025 → PRESENT]`** &nbsp; AI Automation Specialist · Freelance · Karachi, Pakistan
+**`[OCT 2025 → PRESENT]`** &nbsp; AI Automation Specialist · Freelance · Karachi
 - Architected **n8n workflows** integrating **15+ APIs** → manual overhead down **60%** for SMB clients
-- Engineered **OpenAI-powered chatbots** with memory → ticket backlog reduced by **40%**
+- Engineered **OpenAI-powered chatbots** with context memory → ticket backlog reduced by **40%**
 - Built **Python AI agents** for content gen, lead qualification & data pipelines → **20+ hrs/week saved**
 - Designed **FastAPI microservices** syncing CRM, marketing & analytics in real-time
-- Deployed error-handling & monitoring systems → **99%+ uptime** across all production workflows
+- Deployed error-handling & monitoring → **99%+ uptime** across all production workflows
 
 **`[DEC 2024 → PRESENT]`** &nbsp; Prompt Engineer · OpenAI API · Self-Employed
 - Built **advanced prompt frameworks** + tool-integrated agents → error rates down **35%**
@@ -95,9 +133,7 @@ automation:
 
 development:
   - JavaScript / React / Node.js
-  - Docker
-  - Git
-  - SQL / MySQL
+  - Docker / Git / SQL
 ```
 
 ---
@@ -116,32 +152,15 @@ $ cat stats.log
 ---
 
 ```
-$ cat achievements.md
+$ cat achievements.md && cat education.json
 ```
 
 **🥉 3rd Prize — Geekathon 2025** · Millennium Institute of Technology & Entrepreneurship, Karachi
-> Competed in a university-wide hackathon among top student engineers, demonstrating technical innovation and problem-solving.
-
----
-
-```
-$ cat education.json
-```
 
 ```json
 [
-  {
-    "degree": "Bachelor of Computer Science",
-    "institution": "Millennium Institute of Technology & Entrepreneurship",
-    "location": "Karachi, Pakistan",
-    "years": "2024 – 2028"
-  },
-  {
-    "degree": "High School Diploma, Computer Science",
-    "institution": "Eva's Academy High School",
-    "location": "Hyderabad, Pakistan",
-    "years": "2010 – 2022"
-  }
+  { "degree": "B.Sc. Computer Science", "institution": "MITE", "years": "2024–2028" },
+  { "degree": "High School Diploma, CS", "institution": "Eva's Academy", "years": "2010–2022" }
 ]
 ```
 
@@ -150,11 +169,11 @@ $ cat education.json
 <div align="center">
 
 ```
-"Time is the most valuable resource — I build AI systems that give it back to you."
-                                                              — Vishal Sahil
+  "Time is the most valuable resource — I build AI systems that give it back to you."
+                                                                       — Vishal Sahil
 ```
 
 [![Hire Me](https://img.shields.io/badge/💼_Hire_Me-Available_Now-00d4ff?style=for-the-badge)](mailto:vishalsahil986@gmail.com)
-[![Download CV](https://img.shields.io/badge/📄_Resume-Download-f0b429?style=for-the-badge)](https://github.com/vishalsahilai/vishalsahilai/blob/main/vishal_sahil_resume.pdf)
+[![Resume](https://img.shields.io/badge/📄_Resume-Download-f0b429?style=for-the-badge)](https://github.com/vishalsahilai/vishalsahilai/blob/main/vishal_sahil_resume.pdf)
 
 </div>
