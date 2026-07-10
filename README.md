@@ -1,179 +1,201 @@
 <div align="center">
 
-<a href="https://vishalsahilai.vercel.app">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=2" width="100%"/>
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0a1628,100:00d4ff&height=200&section=header&text=VISHAL%20SAHIL&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Automation%20Specialist%20%7C%20Agent%20Builder%20%7C%20n8n%20Expert&descAlignY=58&descSize=16&descColor=00d4ff" width="100%"/>
 
-</div>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2500&pause=800&color=00D4FF&center=true&vCenter=true&width=700&lines=🤖+AI+Automation+Specialist;⚡+n8n+%7C+LangChain+%7C+OpenAI+API;🐍+Python+AI+Agents+Builder;🎯+Workflow+Automation+Expert;🚀+Turning+Ideas+into+AI+Systems)
 
-<table>
-<tr>
-<td width="40%" valign="top">
+<br>
 
-<div align="center">
-
-<!-- Replace the src below with your GitHub avatar URL after uploading -->
-<img src="https://github.com/vishalsahilai.png" width="280" style="border-radius: 50%; border: 3px solid #00d4ff;"/>
-
-<br/><br/>
-
-**Vishal Sahil**
-`vishalsahilai`
-
-[![Follow](https://img.shields.io/github/followers/vishalsahilai?style=social)](https://github.com/vishalsahilai)
-
-```
-  AI Automation Specialist
-  Agent Builder | n8n Expert
-  Karachi, Pakistan 🇵🇰
-```
-
-📱 `+92 336 6874263`
-✉️ `vishalsahil986@gmail.com`
-
-</div>
-
-</td>
-<td width="60%" valign="top">
-
-```
-vishal@sahil ─────────────────────────────────────
- OS: .................. Karachi, Pakistan 🇵🇰
- Uptime: .............. 20 yrs, still compiling
- Host: ................ Millennium Inst. of Tech
- Kernel: .............. AI Automation Specialist
- IDE: ................. n8n · VSCode · Python
-
- Languages.Programming: Python, JavaScript, SQL
- Languages.AI: ........ LangChain, OpenAI API
- Languages.Automation:  n8n, Make, Zapier, FastAPI
- Languages.Frontend: .. React, Node.js, HTML/CSS
-
- Hobbies.Building: .... AI Agents that save time
- Hobbies.Exploring: ... LLMs, RAG, Prompt Eng.
-
-- Contact ─────────────────────────────────────────
- Email.Personal: ....... vishalsahil986@gmail.com
- Email.Work: ........... vishalsahilofficial@gmail.com
- LinkedIn: ............. vishal-sahil-ai
- WhatsApp: ............. +92 336 6874263
- Portfolio: ............ vishalsahilai.vercel.app
-
-- Impact Stats ────────────────────────────────────
- Manual Work Reduced: 60% | Uptime: ......... 99%+
- Hours Saved/Week: .. 20+ | APIs Integrated: .. 15+
- Lead Conversion:  +45%  | Clients Reused: .... 10+
-```
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/vishal-sahil-ai)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00d4ff?style=flat-square&logo=vercel&logoColor=white)](https://vishalsahilai.vercel.app/)
-[![Email](https://img.shields.io/badge/Gmail-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:vishalsahil986@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/923366874263)
-[![Status](https://img.shields.io/badge/Status-Open_for_Projects-brightgreen?style=flat-square)](mailto:vishalsahil986@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=vishalsahilai&style=for-the-badge&color=00d4ff&label=PROFILE+VIEWS)](https://github.com/vishalsahilai)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vishal-sahil-ai)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00d4ff?style=for-the-badge&logo=github&logoColor=black)](https://vishalsahilai.github.io/portfolio.html)
+[![Email](https://img.shields.io/badge/Gmail-Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishalsahilofficial@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923366874263)
+[![Available](https://img.shields.io/badge/Status-Available_for_Projects-brightgreen?style=for-the-badge)](mailto:vishalsahil986@gmail.com)
 
 </div>
 
 ---
 
-```
-$ cat experience.txt
-```
+<img align="right" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
-**`[OCT 2025 → PRESENT]`** &nbsp; AI Automation Specialist · Freelance · Karachi
-- Architected **n8n workflows** integrating **15+ APIs** → manual overhead down **60%** for SMB clients
-- Engineered **OpenAI-powered chatbots** with context memory → ticket backlog reduced by **40%**
-- Built **Python AI agents** for content gen, lead qualification & data pipelines → **20+ hrs/week saved**
-- Designed **FastAPI microservices** syncing CRM, marketing & analytics in real-time
-- Deployed error-handling & monitoring → **99%+ uptime** across all production workflows
+## 👨‍💻 About Me
 
-**`[DEC 2024 → PRESENT]`** &nbsp; Prompt Engineer · OpenAI API · Self-Employed
-- Built **advanced prompt frameworks** + tool-integrated agents → error rates down **35%**
-- Designed **multi-turn conversational flows** with guardrails & context management
-- Ran **A/B testing pipelines** on LLM outputs → **25% improvement** in response relevance
+🙋‍♂️ **Name:** Vishal Sahil
 
----
+🎯 **Role:** AI Automation Specialist
 
-```
-$ ls projects/
-```
+📍 **Location:** Karachi, Pakistan 🇵🇰
 
-| Project | Stack | Impact |
-|---|---|---|
-| **Multi-API Onboarding Automation** | n8n · Slack · Google Workspace · CRM | 4 hrs → **15 min** |
-| **AI-Powered Content Pipeline** | GPT-4 · Vision API · Scheduler | **300%** reach increase |
-| **Intelligent Lead Qualification Bot** | NLU · CRM · Automated Follow-ups | **+45%** conversions |
-| **Custom Python AI Framework** | LangChain · OpenAI · Modular Agents | Reused by **10+ clients** |
+📱 **Phone:** +92 336 6874263
 
----
+✉️ **Email:** vishalsahilofficial@gmail.com
 
-```
-$ cat stack.conf
-```
+🌐 **Portfolio:** [vishalsahilai.vercel.app](https://vishalsahilai.vercel.app/)
 
-```yaml
-ai_ml:
-  - OpenAI API       # GPT-4, Whisper, Vision
-  - LangChain        # Agents, RAG, Memory
-  - HuggingFace      # Open-source models
-  - Python           # Primary language
+💚 **Status:** Open for Projects!
 
-automation:
-  - n8n              # Primary workflow engine
-  - Make (Integromat)
-  - Zapier
-  - FastAPI          # Custom microservices
+**Core Skills:**
+- 🤖 AI Agents (Python + LangChain)
+- ⚡ n8n Workflow Automation
+- 🧠 OpenAI API & Prompt Engineering
+- 🔧 FastAPI Microservices
+- 📚 RAG Systems
+- 🔄 Make / Zapier Automation
 
-development:
-  - JavaScript / React / Node.js
-  - Docker / Git / SQL
-```
+> *"Time is the most valuable resource — I build AI systems that give it back to you."*
+
+<br clear="right"/>
 
 ---
 
-```
-$ cat stats.log
-```
+## 📊 Impact Numbers
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=vishalsahilai&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00d4ff&icon_color=f0b429&text_color=ffffff&border_radius=6&count_private=true&include_all_commits=true" width="49%"/>
-<img src="https://streak-stats.demolab.com?user=vishalsahilai&theme=radical&hide_border=true&background=0D1117&ring=00d4ff&fire=f0b429&currStreakLabel=00d4ff&border_radius=6" width="49%"/>
+| 🔻 Manual Work Reduced | ⏰ Hours Saved Weekly | ✅ Workflow Uptime | 📈 Lead Conversion Up | 🔗 APIs Integrated |
+|:---:|:---:|:---:|:---:|:---:|
+| **60%** | **20+ hrs** | **99%+** | **+45%** | **15+** |
 
 </div>
 
 ---
 
-```
-$ cat achievements.md && cat education.json
-```
-
-**🥉 3rd Prize — Geekathon 2025** · Millennium Institute of Technology & Entrepreneurship, Karachi
-
-```json
-[
-  { "degree": "B.Sc. Computer Science", "institution": "MITE", "years": "2024–2028" },
-  { "degree": "High School Diploma, CS", "institution": "Eva's Academy", "years": "2010–2022" }
-]
-```
-
----
+## 🛠️ Tech Stack
 
 <div align="center">
 
-```
-  "Time is the most valuable resource — I build AI systems that give it back to you."
-                                                                       — Vishal Sahil
-```
+### 🤖 AI & Machine Learning
+[![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com)
+[![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)](https://langchain.com)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co)
+
+### ⚡ Automation Platforms
+[![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)](https://n8n.io)
+[![Make](https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=make&logoColor=white)](https://make.com)
+[![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)](https://zapier.com)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
+
+### 💻 Development
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://docker.com)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
+[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://mysql.com)
+
+</div>
+
+---
+
+## 💼 Professional Experience
+
+<details open>
+<summary><b>🤖 AI Automation Specialist — Freelance &nbsp;|&nbsp; Oct 2025 – Present</b></summary>
+<br>
+
+> Self-Employed · Karachi, Pakistan
+
+- ⚡ Architected **n8n automation workflows** integrating **15+ APIs** → reduced manual overhead by **60%** for SMB clients
+- 🤖 Engineered custom **AI chatbots** with OpenAI API + context-aware memory → ticket backlog down **40%**
+- 🐍 Built **Python-based AI agents** for content generation, lead qualification & data processing → **20+ hrs/week saved**
+- 🔧 Designed **FastAPI microservices** for real-time CRM, marketing & analytics sync
+- ✅ Developed error handling & monitoring systems → **99%+ uptime** across all deployments
+
+</details>
+
+<br>
+
+<details open>
+<summary><b>✍️ Prompt Engineer — OpenAI API &nbsp;|&nbsp; Dec 2024 – Present</b></summary>
+<br>
+
+> Self-Employed · Karachi, Pakistan
+
+- 📐 Created **advanced prompt frameworks** + tool-integrated AI agents → error rates down **35%**
+- 💬 Built **multi-turn conversational AI** flows with guardrails & context management
+- 🧪 Implemented **regression testing pipelines** for model quality consistency
+- 📈 Optimized LLM via **A/B testing** → **25% improvement** in response relevance
+
+</details>
+
+---
+
+## 🚀 Key Projects
+
+<div align="center">
+
+| # | Project | Description | Result |
+|---|---------|-------------|--------|
+| ⚡ | **Multi-API Onboarding Automation** | Slack + Google Workspace + CRM integration | 4 hrs → **15 min** setup |
+| 🤖 | **AI-Powered Content Pipeline** | GPT-4 + Vision API + Auto-scheduler | **300%** reach increase |
+| 🎯 | **Intelligent Lead Qualification Bot** | NLU + CRM + Automated follow-ups | **45%** conversion boost |
+| 🐍 | **Custom Python AI Framework** | Modular LangChain + OpenAI agents | Reused by **10+ clients** |
+
+</div>
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=vishalsahilai&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00d4ff&icon_color=f0b429&text_color=ffffff&border_radius=10&count_private=true&include_all_commits=true" width="49%"/>
+<img src="https://streak-stats.demolab.com?user=vishalsahilai&theme=radical&hide_border=true&background=0D1117&ring=00d4ff&fire=f0b429&currStreakLabel=00d4ff&border_radius=10" width="49%"/>
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vishalsahilai&theme=react-dark&hide_border=true&bg_color=0D1117&color=00d4ff&line=00d4ff&point=f0b429" width="100%"/>
+
+</div>
+
+---
+
+## 🏆 Achievement
+
+<div align="center">
+
+### 🥉 3rd Prize — Geekathon 2025
+**Millennium Institute of Technology & Entrepreneurship**
+
+Competed in the university-wide hackathon demonstrating technical innovation and problem-solving capabilities among top student engineers.
+
+![Achievement](https://img.shields.io/badge/🏆_Geekathon_2025-3rd_Prize-f0b429?style=for-the-badge)
+[![University](https://img.shields.io/badge/MITE_University-Karachi-00d4ff?style=for-the-badge)](https://mite.edu.pk/)
+
+</div>
+
+---
+
+## 🎓 Education
+
+<div align="center">
+
+| 🎓 Degree | 🏫 Institution | 📍 Location | 📅 Year |
+|:---:|:---:|:---:|:---:|
+| **Bachelor of Computer Science** | Millennium Institute of Technology & Entrepreneurship | Karachi | 2024 – 2028 |
+| **High School Diploma, CS** | Eva's Academy High School | Hyderabad | 2010 – 2022 |
+
+</div>
+
+---
+
+## 📞 Contact Me
+
+<div align="center">
+
+| 📱 Phone | ✉️ Email | 💼 LinkedIn | 🌐 Portfolio | 📍 Location |
+|:---:|:---:|:---:|:---:|:---:|
+| +92 305 8377755 | vishalsahil986@gmail.com | [vishal-sahil-ai](https://linkedin.com/in/vishal-sahil-ai) | [vishalsahilai.github.io](https://vishalsahilai.github.io) | Karachi 🇵🇰 |
+
+<br>
 
 [![Hire Me](https://img.shields.io/badge/💼_Hire_Me-Available_Now-00d4ff?style=for-the-badge)](mailto:vishalsahil986@gmail.com)
-[![Resume](https://img.shields.io/badge/📄_Resume-Download-f0b429?style=for-the-badge)](https://github.com/vishalsahilai/vishalsahilai/blob/main/vishal_sahil_resume.pdf)
+[![Download CV](https://img.shields.io/badge/📄_Download_CV-Resume-f0b429?style=for-the-badge)](https://github.com/vishalsahilai/vishalsahilai/blob/main/vishal_sahil_resume.pdf)
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:0a1628,100:000000&height=120&section=footer&animation=fadeIn" width="100%"/>
 
 </div>
