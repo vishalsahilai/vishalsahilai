@@ -31,7 +31,7 @@ Building    : AI Agents
 Portfolio   : vishalsahilai.vercel.app
 LinkedIn    : linkedin.com/in/vishal-sahil-ai
 Email       : vishalsahilofficial@gmail.com
-Location    : Pakistan 🇵🇰
+Location    : Pakistan 
 ```
 
 </td>
