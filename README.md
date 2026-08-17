@@ -36,3 +36,11 @@ Email       : vishalsahilofficial@gmail.com
 </td>
 </tr>
 </table>
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=vishalsahilai&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00d4ff&icon_color=f0b429&text_color=ffffff&border_radius=10&count_private=true&include_all_commits=true" width="49%"/>
+<img src="https://streak-stats.demolab.com?user=vishalsahilai&theme=radical&hide_border=true&background=0D1117&ring=00d4ff&fire=f0b429&currStreakLabel=00d4ff&border_radius=10" width="49%"/>
+</div>
