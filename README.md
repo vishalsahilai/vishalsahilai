@@ -148,7 +148,22 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=vishalsahilai&theme=react-dark&hide_border=true&bg_color=0D1117&color=00d4ff&line=00d4ff&point=f0b429" width="100%"/>
 
+
+<br/>
+
+<div align="center">
+
+  <h3>🐍 My Contribution Journey</h3>
+
+  <img src="https://raw.githubusercontent.com/vishalsahilai/vishalsahilai/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation" width="100%"/>
+
 </div>
+
+<br/>
+
+
+</div>
+
 
 ---
 
